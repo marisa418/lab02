@@ -1,0 +1,17 @@
+h1{
+    color: rgb(252, 118, 8);
+    text-decoration: underline;
+}
+.row{   
+    background-color:rgb(235, 188, 157);
+    align-items: center;
+    
+}
+.img-thumbnail{   
+    border-top-style: double;
+    border-right-style: solid;
+    border-bottom-style: double; 
+    border-left-style: solid;
+    border-width: 10px;
+    border-color: coral;
+}
